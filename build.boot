@@ -5,7 +5,7 @@
 (def common-deps '[;; Boot deps
                    [adzerk/boot-cljs            "1.7.228-1"      :scope "test"]
                    [pandeiro/boot-http          "0.7.1-SNAPSHOT" :scope "test"]
-                   [adzerk/boot-reload          "0.4.4"          :scope "test"]
+                   [adzerk/boot-reload          "0.6.0"          :scope "test"]
                    [degree9/boot-semver         "1.2.4"          :scope "test"]
                    ;; Repl
                    [adzerk/boot-cljs-repl       "0.3.0"  :scope "test"]
